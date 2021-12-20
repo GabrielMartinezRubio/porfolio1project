@@ -1,0 +1,6 @@
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\bin\Debug\Common.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\bin\Debug\Common.pdb
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\obj\Debug\Common.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Common\obj\Debug\Common.pdb

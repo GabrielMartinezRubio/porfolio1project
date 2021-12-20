@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16eca052-a79b-4fa2-880c-5f3278298019": {
+      "ProjectGuid": "16eca052-a79b-4fa2-880c-5f3278298019",
+      "DisplayName": "LoginLayered",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "6632f2d0-121c-483a-898b-e16100f0d375": {
+      "ProjectGuid": "6632f2d0-121c-483a-898b-e16100f0d375",
+      "DisplayName": "LoginLayered",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

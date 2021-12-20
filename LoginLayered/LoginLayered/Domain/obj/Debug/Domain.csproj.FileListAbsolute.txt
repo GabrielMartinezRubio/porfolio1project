@@ -1,0 +1,11 @@
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\Domain.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\Domain.pdb
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\DataAccess.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\obj\Debug\Domain.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\obj\Debug\Domain.pdb
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\Common.dll
+C:\Users\money\source\repos\LoginLayered\LoginLayered\Domain\bin\Debug\Common.pdb

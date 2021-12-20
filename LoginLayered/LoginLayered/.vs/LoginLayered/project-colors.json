@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "6632f2d0-121c-483a-898b-e16100f0d375": {
+      "ProjectGuid": "6632f2d0-121c-483a-898b-e16100f0d375",
+      "DisplayName": "LoginLayered",
+      "ColorIndex": 0
+    },
+    "43809643-28d7-4686-a469-d90d187592a0": {
+      "ProjectGuid": "43809643-28d7-4686-a469-d90d187592a0",
+      "DisplayName": "Administracion",
+      "ColorIndex": 1
+    },
+    "2ea02957-e8a0-4030-9e94-d3be2f7ade7c": {
+      "ProjectGuid": "2ea02957-e8a0-4030-9e94-d3be2f7ade7c",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "ac002ab9-9a58-4949-907c-bf6a8852d596": {
+      "ProjectGuid": "ac002ab9-9a58-4949-907c-bf6a8852d596",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 3
+    },
+    "6b2623b7-25a7-489a-bec8-4fde62bdc871": {
+      "ProjectGuid": "6b2623b7-25a7-489a-bec8-4fde62bdc871",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 4
+    },
+    "f6b9e04a-0ebb-4f1b-b876-ac899465d258": {
+      "ProjectGuid": "f6b9e04a-0ebb-4f1b-b876-ac899465d258",
+      "DisplayName": "Domain",
+      "ColorIndex": 5
+    },
+    "c06031fa-3978-46a0-9fe8-6ea2f7d696c8": {
+      "ProjectGuid": "c06031fa-3978-46a0-9fe8-6ea2f7d696c8",
+      "DisplayName": "Common",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
